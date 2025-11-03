@@ -87,6 +87,6 @@ python -m unittest tests.py -v
 **BELOW IS A THE VIDEO FFFILE CONTAINING THE DEMO, CODE EXPLANATION AND A WALKTHROUGH**
 
 [▶️ Watch output video](https://uploadnow.io/f/rzgFv9r)
-
+[▶️ Alternate video link](https://www.sendvid.com/cgd0ppuo)
 
 
